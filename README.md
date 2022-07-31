@@ -12,6 +12,7 @@
 - [ Build Responsive Real-World Websites with HTML and CSS - Jonas Schmedtmann](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 - [Morden React with Redux - Stephen Grider](https://www.udemy.com/course/react-redux/)
 - [Typescript: The Complete Developer's Guide - Stephen Grider](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
+- [Stephen Grider](https://www.udemy.com/course/the-modern-angular-bootcamp/)
 
 ### 🔥🔥 Instructors
 - [Stephen Grider](https://www.udemy.com/user/sgslo/)
