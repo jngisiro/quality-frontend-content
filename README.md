@@ -3,7 +3,7 @@
  - [Angular Air](https://www.youtube.com/c/AngularAirPodcast)
  - [GOTO Conferences](https://www.youtube.com/c/GotoConferences)
  - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
- - [NDC Conferences](https://www.youtube.com/c/NDCConferences)\
+ - [NDC Conferences](https://www.youtube.com/c/NDCConferences)
  - [Theo - ping․gg](https://www.youtube.com/c/TheoBrowne1017)
  
 ### Udemy
