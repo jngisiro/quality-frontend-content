@@ -1,5 +1,4 @@
 # Quality Frontend Content to understand Frontend Better.
-## Javascript
 ### Youtube
  - [Angular Air](https://www.youtube.com/c/AngularAirPodcast)
  - [GOTO Conferences](https://www.youtube.com/c/GotoConferences)
