@@ -20,6 +20,6 @@
 
 ### Interesting People
 - [Monica Lent](https://monicalent.com/)
-- [Jayme Edwards - Healthy Software Developer](https://www.youtube.com/c/JaymeEdwardsMedia)
+- [Jayme Edwards](https://www.youtube.com/c/JaymeEdwardsMedia)
 - [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering)
 - [Chris Hawkes](https://www.youtube.com/c/noobtoprofessional)
