@@ -1,4 +1,4 @@
-# Quality Frontend Content to understand Frontend Better.
+# Quality Frontend Content to gain more context.
 ### Youtube
  - [Angular Air](https://www.youtube.com/c/AngularAirPodcast)
  - [GOTO Conferences](https://www.youtube.com/c/GotoConferences)
